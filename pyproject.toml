@@ -15,7 +15,7 @@ pytimeparse = "^1.1.8"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
-codecov = "^2.0"
+codecov = "^2.1"
 
 [tool.isort]
 line_length = 88
